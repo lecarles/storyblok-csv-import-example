@@ -14,31 +14,19 @@ const config = {
 
 let stream = fs.createReadStream('demo.csv')
 
-const formatSlug = (slug) => {
-  return slug.toLowerCase().replace(/ /g, '-').replace(/[^a-z0-9-]/g, '')
-}
-
-const removeAccents = (str) => {
-  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-}
-
 csvReader.parseStream(stream, { headers: true, delimiter: ';' })
   .on('data', (line) => {
     // one line of csv in here
     let story = {
-      slug: formatSlug(line.artist1),
-      name: removeAccents(line.artist1),
+      slug: line.path,
+      name: line.title,
       parent_id: config.parentFolder,
       content: {
-        component: 'concert',
-        entrades: line.entrades,
-        artist1: line.artist1,
-        artist2: line.artist2,
-        artist3: line.artist3,
-        data: line.data + ' ' + line.hora,
-        sala: line.sala,
-        localitat: line.localitat,
-        circuit: line.circuit,
+        component: 'post',
+        title: line.title,
+        text: line.text,
+        image: line.image,
+        category: line.category
       }
     }
 
@@ -50,7 +38,7 @@ csvReader.parseStream(stream, { headers: true, delimiter: ';' })
       console.log(`Error: ${err}`)
     })
   })
-  /* .on('end', () => {
+  .on('end', () => {
     // Done reading the CSV - now we finally create the component with a definition for each field
     // we can also skip that and define the content type using the interface at app.storyblok.com
     let component = {
@@ -76,7 +64,7 @@ csvReader.parseStream(stream, { headers: true, delimiter: ';' })
       },
       is_root: true, // is content type
       is_nestable: false // is nestable (in another content type)
-    } 
+    }
 
     Storyblok.post(`spaces/${config.spaceId}/components/`, {
       component
@@ -85,5 +73,5 @@ csvReader.parseStream(stream, { headers: true, delimiter: ';' })
     }).catch(err => {
       console.log(`Error: ${err}`)
     })
-  })*/
+  })
 

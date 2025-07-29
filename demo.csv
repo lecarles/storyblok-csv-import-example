@@ -1,9 +1,39 @@
-path;title;text;image;category
-this-is-my-title;This is my title;"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In erat mauris, faucibus quis pharetra sit amet, pretium ac libero. Etiam vehicula eleifend bibendum. Morbi gravida metus ut sapien condimentum sodales mollis augue sodales. Vestibulum quis quam at sem placerat aliquet. Curabitur a felis at sapien ullamcorper fermentum. Mauris molestie arcu et lectus iaculis sit amet eleifend eros posuere. Fusce nec porta orci.
-
-Integer vitae neque odio, a sollicitudin lorem. Aenean orci mauris, tristique luctus fermentum eu, feugiat vel massa. Fusce sem sem, egestas nec vulputate vel, pretium sit amet mi. Fusce ut nisl id risus facilisis euismod. Curabitur et elementum purus. Duis tincidunt fringilla eleifend. Morbi id lorem eu ante adipiscing feugiat. Sed congue erat in enim eleifend dignissim at in nisl.";https://a.storyblok.com/f/51376/x/1502f01431/corporate-website.svg;press
-this-is-another-title;This is another Title;"Donec tortor mauris, mollis vel pretium vitae, lacinia nec sapien. Donec erat neque, ullamcorper tincidunt iaculis sit amet, pharetra bibendum ipsum. Nunc mattis risus ac ante consequat nec pulvinar neque molestie. Etiam interdum nunc at metus lacinia non varius erat dignissim. Integer elementum, felis id facilisis vulputate, ipsum tellus venenatis dui, at blandit nibh massa in dolor. Cras a ultricies sapien. Vivamus adipiscing feugiat pharetra.
-
-Donec consectetur pellentesque nisi sit amet elementum. Duis iaculis velit at eros dapibus vehicula. Vestibulum erat risus, rutrum ut vulputate eu, rhoncus ut dolor. Etiam pellentesque lobortis velit. Suspendisse arcu lacus, ornare in sollicitudin eget, hendrerit a neque. Donec ac justo in ante gravida mollis. Praesent scelerisque molestie risus sodales fringilla. Vivamus quis lorem in mauris pulvinar tempor. Nam in nisl vel neque commodo semper sed eu nibh.";https://a.storyblok.com/f/51376/551x678/e0e567b52e/ecommerce.svg;news
-lorem-ipsum;Lorem Ipsum;Donec tortor mauris, mollis vel pretium vitae, lacinia nec sapien. Donec erat neque, ullamcorper tincidunt iaculis sit amet, pharetra bibendum ipsum. Nunc mattis risus ac ante consequat nec pulvinar neque molestie. Etiam interdum nunc at metus lacinia non varius erat dignissim. Integer elementum, felis id facilisis vulputate, ipsum tellus venenatis dui, at blandit nibh massa in dolor. Cras a ultricies sapien. Vivamus adipiscing feugiat pharetra.;https://a.storyblok.com/f/51376/551x678/cc18db2f76/multi-channel.svg;another
-another-post;Another Post;Donec tortor mauris, mollis vel pretium vitae, lacinia nec sapien. Donec erat neque, ullamcorper tincidunt iaculis sit amet, pharetra bibendum ipsum. Nunc mattis risus ac ante consequat nec pulvinar neque molestie. Etiam interdum nunc at metus lacinia non varius erat dignissim. Integer elementum, felis id facilisis vulputate, ipsum tellus venenatis dui, at blandit nibh massa in dolor. Cras a ultricies sapien. Vivamus adipiscing feugiat pharetra.;https://a.storyblok.com/f/51376/884x750/3bff01d851/international.svg;news
+﻿path;artist1;artist2;artist3;data;sala;localitat;circuit;hora;entrades
+;Los Puñales de Martín;;;2025-09-12;Rock City;Almàssera;canter;22:00;https://www.notikumi.com/2025/9/12/los-punales-de-martin-en-valencia-rock-city
+;Dani Miquel;;;2025-09-21;La Casa de la Mar;Alboraia;canter;19:30;https://ticketere.com/evento/dani-miquel-fevim/
+;Latino Blanco Quartet;;;2025-09-21;Matisse Club;València;canter;12:00;https://www.matisseclub.com/espectaculo/145/latino-blanco-quartet.html
+;Alejandro y Maria Laura;;;2025-09-26;El Volander;València;canter;22:30;https://entradium.com/events/alejandro-y-maria-laura-en-el-volander-valencia
+;DIVERSOS ; L.Y.S;;2025-09-26;Radio City;València;canter;22:00;https://entradium.com/es/events/canter-fevim-presentan-diversos-lys
+;El Tio la Careta;;;2025-09-27;Repvblicca;Mislata;canter;23:00;https://movingtickets.com/Entradas-La-Perra-Blanco-concierto-en-Salatal-Castellon/
+;La Perra Blanco;;;2025-09-27;Salatal;Castelló;canter;00:00;
+;Las Víctimas Civiles;O.J.O;Virgen de la Periferia;2025-10-03;16 Toneladas Rock Club;València;canter;23:00;https://movingtickets.com/Entradas-Las-Victimas-Civiles-O-J-O-Virgen-de-la-Periferia-en-16-Toneladas-Valencia/
+;4 Bajo Zero;;;2025-10-04;Matadero Live Music;Aiora;canter;20:00;http://tickets.salamatadero.com/es/matadero-live-music/fiesta-presentacion-metalbee-2025-concierto-4-bajo-zero-eisi-disi-iron-monster/2025-10-04/
+;David Pastor Trío;;;2025-10-05;Café Mercedes Jazz;València;canter;23:00;
+;Amores Grup de Percussió;;;2025-10-18;Teatre del Raval;Gandia;canter;19:00;https://teatreravalgandia.koobin.com/amores
+;The Great Travelin' Band;;;2025-10-23;Loco Club;València;canter;21:30;https://lococlub.es/events/the-great-travellin-band/
+;Sujeto K;;;2025-10-24;El Terra;Castelló;canter;00:00;
+;Borja Penalba;;;2025-10-24;La Bohemia;Castelló;canter;20:30;https://ticketere.com/evento/circuit-canter-borja-penalba/
+;Rockhouse;;;2025-11-08;Because;Castelló;canter;12:00;
+;Green Nomad;;;2025-11-16;Peter Rock Club;València;canter;12:30;
+;Wau y los Arrrghs!!! ;Los Monstruos de Frankenstein;;2025-11-22;Stereo;Alacant;canter;22:30;https://entradium.com/events/wau-y-los-arrrghs-en-alicante 
+;Badlands;;;2025-12-12;Euterpe;Sant Joan d'Alacant;canter;22:00;
+;Huracán Romántica ;Stereozone;;2025-12-27;Marearock;Alacant;canter;22:30;https://entradasmarearock.com/event/huracn-romntica--stereozone
+;Whitestone Connection;;;2025-09-05;Peter Rock Club;València;enviu;22:15;https://ticketere.com/evento/circuit-viu-whitestone-connection/
+;Meatbodies; Helen Helen;;2025-09-07;16 Toneladas Rock Club;València;enviu;19:30;https://www.16toneladas.com/events/event/meat-bodies-artista-invitado/
+;Luback;;;2025-09-26;Euterpe;Sant Joan d'Alacant;enviu;22:00;https://ticketere.com/evento/circuit-viu-luback/
+;Novus + Becarios;;;2025-10-03;Stereo;Alacant;enviu;22:30;
+;Elisabet Raspall;;;2025-10-04;Café Mercedes Jazz;València;enviu;20:30;https://ticketere.com/evento/circuit-viu-elisabet-raspall/
+;Six Burning Knives;;;2025-10-11;El Terra;Castelló;enviu;20:00;https://ticketere.com/evento/circuit-viu-six-burning-knives/
+;Dropkick;;;2025-10-19;Loco Club;València;enviu;20:00;https://lococlub.es/events/dropkick-2/
+;Relats Arrelats;;;2025-10-19;Matisse Club;València;enviu;19:00;
+;Jordi Sapena;;;2025-10-25;Teatre del Raval;Gandia;enviu;13:00;https://teatreravalgandia.koobin.com/jordi-sapena
+;Albert Pla & The Surprise Band;;;2025-10-25;The One;Alacant;enviu;20:00;https://cli.fourvenues.com/es/sala-the-one/events/concierto-albert-pla-alicante-2025-25-10-2025-ZURA
+;Los Bengala ;Paco Vila;;2025-10-31;La Bohemia;Castelló;enviu;21:30;https://ticketere.com/evento/circuit-viu-los-bengala-paco-vila/
+;Komando Komare;;;2025-11-02;La Casa de la Mar;Alboraia;enviu;13:00;https://ticketere.com/evento/circuit-viu-komando-comare/
+;Reina Vudú ;Nube Naranja;;2025-11-07;Salatal;Castelló;enviu;21:00;https://ticketere.com/evento/circuit-viu-reina-vudu-nube-naranja/
+;Tontxu;;;2025-11-08;El Volander;València;enviu;22:00;https://ticketere.com/evento/circuit-viu-tontxu-ipina/
+;Hora Zulu;;;2025-11-08;Marearock;Alacant;enviu;22:00;https://marcablanca.qr4events.com/event/hora-zulu
+;Viva Belgrado;;;2025-11-13;Rock City;Almàssera;enviu;21:30;https://www.enterticket.es/eventos/viva-belgrado-sala-rock-city-valencia-488456
+;Maria Carbonell Blues Mood;;;2025-11-15;Radio City;València;enviu;18:30;https://ticketere.com/evento/maria-carbonell-blues-mood/
+;Yei Yi and Co Jazz Quartet;;;2025-11-22;Because;Castelló;enviu;22:00;https://tickets.salamatadero.com/es/matadero-live-music/iii-festival-metal-bee/
+;Mind Driller;;;2025-11-22;Matadero Live Music;Aiora;enviu;12:00;
